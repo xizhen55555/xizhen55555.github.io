@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.sunxizhen.xyz</id>
     <title>Test</title>
-    <updated>2024-07-16T07:15:24.123Z</updated>
+    <updated>2024-07-17T00:52:05.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.sunxizhen.xyz"/>
     <link rel="self" href="https://blog.sunxizhen.xyz/atom.xml"/>
@@ -22,6 +22,25 @@
     <logo>https://blog.sunxizhen.xyz/images/avatar.png</logo>
     <icon>https://blog.sunxizhen.xyz/favicon.ico</icon>
     <rights>All rights reserved 2024, Test</rights>
+    <entry>
+        <title type="html"><![CDATA[Rustdesk中继服务使用指南]]></title>
+        <id>https://blog.sunxizhen.xyz/post/rustdesk-zhong-ji-fu-wu-shi-yong-zhi-nan/</id>
+        <link href="https://blog.sunxizhen.xyz/post/rustdesk-zhong-ji-fu-wu-shi-yong-zhi-nan/">
+        </link>
+        <updated>2024-07-17T00:51:03.000Z</updated>
+        <content type="html"><![CDATA[<p>RustDesk中继服务使用指南</p>
+<p>Windows客户端下载：<a href="https://github.moeyy.xyz/https://github.com/rustdesk/rustdesk/releases/download/1.2.6/rustdesk-1.2.6-x86_64.exe">点此下载</a></p>
+<p>安卓客户端下载：<a href="https://github.moeyy.xyz/https://github.com/rustdesk/rustdesk/releases/download/1.2.6/rustdesk-1.2.6-aarch64-signed.apk">点此下载</a></p>
+<p>iOS客户端：https://testflight.apple.com/join/KBG9EsZW</p>
+<p>Mac客户端：<a href="https://github.moeyy.xyz/https://github.com/rustdesk/rustdesk/releases/download/1.2.6/rustdesk-1.2.6-x86_64.dmg">点此下载</a></p>
+<p>使用方法，以windows为例，其他平台用法相同：</p>
+<p>下载安装完成后打开，点此此处<img src="https://img.picui.cn/free/2024/07/17/669712fc7a375.png" alt="图1" loading="lazy"></p>
+<p>然后点击此处：</p>
+<figure data-type="image" tabindex="1"><img src="https://img.picui.cn/free/2024/07/17/6697135dcdec3.png" alt="图2" loading="lazy"></figure>
+<p>然后点击此处后，填入我提供的Key和服务地址，每个人的key和服务地址不一样，一机一key，欢迎检查，保证一人一机不共享</p>
+<figure data-type="image" tabindex="2"><img src="https://img.picui.cn/free/2024/07/17/669713b0669f8.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
         <id>https://blog.sunxizhen.xyz/post/hello/</id>
